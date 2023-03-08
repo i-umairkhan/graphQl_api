@@ -8,3 +8,5 @@ server.listen()
 .then(({url}) => {
     console.log(`server listening on ${url}`)
 })
+
+// https://studio.apollographql.com/sandbox/explorer
